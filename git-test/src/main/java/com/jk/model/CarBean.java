@@ -4,4 +4,6 @@ public class CarBean {
 
     private Integer id;
     private String name;
+
+    private String color;
 }
